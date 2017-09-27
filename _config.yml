@@ -86,7 +86,7 @@ service-worker: true
 # Friends
 friends: [
     {
-         title: "benzi",
+         title: "本少超帅不超神",
          href: "http://www.520zwp.com/"
      }
 ]

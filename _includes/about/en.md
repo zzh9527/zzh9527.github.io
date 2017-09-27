@@ -3,7 +3,7 @@
 > Yet another man.
 
 
-Hi, I am *@zzh* , a  student. [blog](https://zzh9527.github.io)、[weibo](weibo.com/5762930095/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)、 
+Hi, I am *@zzh* , a  student. [blog](https://zzh9527.github.io)、[weibo](weibo.com/5762930095/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
 
 
 

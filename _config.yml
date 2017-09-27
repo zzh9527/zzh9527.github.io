@@ -87,6 +87,6 @@ service-worker: true
 friends: [
     {
          title: "benzi",
-         href: "http://www.zwp520.com/"
+         href: "http://www.520zwp.com/"
      }
 ]

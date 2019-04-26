@@ -13,10 +13,9 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     Zzh
-zhihu_username:     Zzh
-github_username:    Zzh
-twitter_username:   Zzh
+weibo_username:     5762930095/profile?rightmod=1&wvr=6&mod=personinfo
+zhihu_username:     people/zhang-zi-hang-54/activities
+github_username:    zzh9527
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -79,7 +78,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-zzh-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 

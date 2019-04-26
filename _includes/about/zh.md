@@ -10,5 +10,5 @@ Hey，我是zzh，[微博](weibo.com/5762930095/profile?topnav=1&wvr=6)、[知�
 
 - [lolskin][1] · [百度](http://www.baidu.com)
 
-[1]: //leagueskin.net/p/download-mod-skin-lol-pro-2016-chn?tdsourcetag=s_pcqq_aiomsg
+[1]: http://leagueskin.net/p/download-mod-skin-lol-pro-2016-chn?tdsourcetag=s_pcqq_aiomsg
 

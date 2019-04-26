@@ -1,0 +1,22 @@
+---
+layout:     post
+title:      "Hello 2017"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2017-10-10 12:00:00
+author:     "Hux"
+header-img: "img/post-bg-2017.jpg"
+catalog: true
+tags:
+    - 生活
+---
+
+> “Yeah It's on. ”
+
+
+## 前言
+
+Zzh 的 Blog 就这么开通了,记录生活，技术，学习的点点滴滴...
+
+
+
+

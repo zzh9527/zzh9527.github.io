@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 weibo_username:     5762930095/profile?rightmod=1&wvr=6&mod=personinfo
-zhihu_username:     people/zhang-zi-hang-54/activities
+zhihu_username:     zhang-zi-hang-54/activities
 github_username:    zzh9527
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx

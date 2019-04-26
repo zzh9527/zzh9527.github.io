@@ -4,7 +4,6 @@ title: "考研之路"
 subtitle: "the way of postgraduate exams"
 author: "zzh"
 header-img: "img/post-bg-dreamer.jpg"
-header-mask: 0.4
 tags:
   - 考研
   - 生活

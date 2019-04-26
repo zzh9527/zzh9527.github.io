@@ -5,7 +5,7 @@ subtitle:   "AlertDialog"
 date:       2017-10-14 21:08:00
 author:     "ZZH"
 header-img: "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
-catalog:    true
+catalog: true
 tags:
     - android
 ---

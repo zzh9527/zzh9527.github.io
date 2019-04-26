@@ -4,6 +4,7 @@ title: "「知乎」如何通俗地解释停机问题？"
 subtitle: "How to explain the Halting Problem?"
 author: "zzh"
 header-img: "img/post-bg-halting.jpg"
+catalog: true
 tags:
   - 知乎
   - 技术

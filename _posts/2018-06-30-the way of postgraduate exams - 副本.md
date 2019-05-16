@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "考研之路"
+title: "考研"
 subtitle: "the way of postgraduate exams"
 author: "zzh"
 header-img: "img/post-bg-dreamer.jpg"

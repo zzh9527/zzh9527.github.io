@@ -14,4 +14,4 @@ tags:
 
 
 ## 当你对这个问题很感兴趣的时候，你就已经是个沙雕了。
-！[](/img/shadiao.jpg)
+![](/img/shadiao.jpg)

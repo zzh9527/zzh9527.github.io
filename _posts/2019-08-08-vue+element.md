@@ -35,6 +35,7 @@ tags:
 
 解决方法：我们可以通过watch来监听props的属性值，然后赋值给data里面的属性，标签属性就可以绑定data里面的属性值
 > [参考CSDN](https://blog.csdn.net/dreamer_jack/article/details/88355588)
+
 ```py
 <el-input  placeholder="请输入" style="width: 45%;" v-model="roleName"></el-input>
 <el-input v-model="comments" placeholder="请输入"></el-input>
@@ -60,9 +61,7 @@ data () {
 	}
 }
 ```
-
 2、权限信息的显示
-
 checkrole.vue如下：
 ```py
 <el-tree
